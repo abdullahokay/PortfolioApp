@@ -1,5 +1,3 @@
-# equota
-
 ## Project setup
 ```
 npm install
