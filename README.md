@@ -1,3 +1,14 @@
+## Built With
+
+Frontend (SPA)
+
+- Used javascript framework on front-end - [Vue.js](https://vuejs.org/)
+- State management pattern on front-end - [Vuex](https://vuex.vuejs.org/)
+
+Backend (API)
+
+- Binance API (https://api2.binance.com/api/v3/ticker/24hr)
+
 ## Project setup
 ```
 npm install
