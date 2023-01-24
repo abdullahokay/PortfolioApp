@@ -9,6 +9,13 @@ Backend (API)
 
 - Binance API (https://api2.binance.com/api/v3/ticker/24hr)
 
+## Project Images
+
+(https://abdullahokay/PortfolioApp/blob/main/img/mainpage.PNG)
+(https://abdullahokay/PortfolioApp/blob/main/img/modalandmainpage.PNG)
+(https://abdullahokay/PortfolioApp/blob/main/img/mainpageafterchanges.PNG)
+(https://abdullahokay/PortfolioApp/blob/main/img/lightmode.PNG)
+
 ## Project setup
 ```
 npm install
