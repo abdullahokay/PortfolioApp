@@ -11,10 +11,7 @@ Backend (API)
 
 ## Project Images
 
-(https://abdullahokay/PortfolioApp/img/mainpage.PNG)
-(https://abdullahokay/PortfolioApp/img/modalandmainpage.PNG)
-(https://abdullahokay/PortfolioApp/img/mainpageafterchanges.PNG)
-(https://abdullahokay/PortfolioApp/img/lightmode.PNG)
+
 
 ## Project setup
 ```
