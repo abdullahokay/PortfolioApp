@@ -10,7 +10,7 @@ Backend (API)
 - Binance API (https://api2.binance.com/api/v3/ticker/24hr)
 
 ## Project Images
-![mainpage](https://github.com/abdullahokay/PortfolioApp/img/mainpage.PNG)
+![mainpage](https://github.com/abdullahokay/PortfolioApp/blob/main/img/mainpage.PNG)
 ![modal-and-mainpage](https://github.com/abdullahokay/PortfolioApp/img/modalandmainpage.PNG)
 ![mainpage-after-changes](https://github.com/abdullahokay/PortfolioApp/img/mainpageafterchanges.PNG)
 ![light-mode](https://github.com/abdullahokay/PortfolioApp/img/lightmode.PNG)
