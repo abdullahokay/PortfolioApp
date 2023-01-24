@@ -4,7 +4,6 @@ Frontend (SPA)
 
 - Used javascript framework on front-end - [Vue.js](https://vuejs.org/)
 - State management pattern on front-end - [Vuex](https://vuex.vuejs.org/)
-- and others...
 
 Backend (API)
 
