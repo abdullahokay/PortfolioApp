@@ -4,10 +4,11 @@ Frontend (SPA)
 
 - Used Javascript framework on front-end - [Vue.js](https://vuejs.org/)
 - State management pattern on front-end - [Vuex](https://vuex.vuejs.org/)
+- Material design framework - [Vuetify](https://vuetifyjs.com/)
 
 Backend (API)
 
-- Binance API (https://api2.binance.com/api/v3/ticker/24hr)
+- Binance API - [API](https://api2.binance.com/api/v3/ticker/24hr)
 
 ## Project Images
 ![mainpage](img/mainpage.PNG)
