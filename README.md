@@ -16,6 +16,8 @@ Backend (API)
 ![mainpage-after-changes](img/mainpageafterchanges.PNG)
 ![light-mode](img/lightmode.PNG)
 
+## Have a look at [Netlify](https://thunderous-trifle-7e60a3.netlify.app)
+
 
 ## Project setup
 ```
