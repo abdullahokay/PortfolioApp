@@ -1,14 +1,20 @@
 ## Built With
 
-Frontend (SPA)
+##Frontend (SPA)
 
 - Used Javascript framework on front-end - [Vue.js](https://vuejs.org/)
 - State management pattern on front-end - [Vuex](https://vuex.vuejs.org/)
 - Material design framework - [Vuetify](https://vuetifyjs.com/)
 
-Backend (API)
+
+##Backend (API)
 
 - Binance API - [API](https://api2.binance.com/api/v3/ticker/24hr)
+
+
+## Have a look at [Netlify](https://thunderous-trifle-7e60a3.netlify.app)
+
+
 
 ## Project Images
 ![mainpage](img/mainpage.PNG)
@@ -16,7 +22,7 @@ Backend (API)
 ![mainpage-after-changes](img/mainpageafterchanges.PNG)
 ![light-mode](img/lightmode.PNG)
 
-## Have a look at [Netlify](https://thunderous-trifle-7e60a3.netlify.app)
+
 
 
 ## Project setup
