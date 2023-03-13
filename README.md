@@ -1,13 +1,13 @@
-## Built With
+# Built With
 
-##Frontend (SPA)
+## Frontend (SPA)
 
 - Used Javascript framework on front-end - [Vue.js](https://vuejs.org/)
 - State management pattern on front-end - [Vuex](https://vuex.vuejs.org/)
 - Material design framework - [Vuetify](https://vuetifyjs.com/)
 
 
-##Backend (API)
+## Backend (API)
 
 - Binance API - [API](https://api2.binance.com/api/v3/ticker/24hr)
 
